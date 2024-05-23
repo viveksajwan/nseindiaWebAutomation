@@ -1,0 +1,629 @@
+[INFO] [main] 2024-03-03 18:18:02.304 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:18:03.456 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:35:40.681 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:35:53.420 com.datavid.nseindia.utility.SetupTestDriver getDriver - Chrome
+[INFO] [main] 2024-03-03 18:36:16.804 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:37:54.847 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:37:55.052 com.datavid.nseindia.utility.SetupTestDriver getDriver - Chrome
+[INFO] [main] 2024-03-03 18:38:01.312 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:40:59.219 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:40:59.464 com.datavid.nseindia.utility.SetupTestDriver getDriver - Chrome
+[INFO] [main] 2024-03-03 18:41:05.801 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:42:59.373 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:42:59.605 com.datavid.nseindia.utility.SetupTestDriver getDriver - Chrome
+[INFO] [main] 2024-03-03 18:43:04.113 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:49:36.757 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:49:36.972 com.datavid.nseindia.utility.SetupTestDriver getDriver - Chrome
+[DEBUG] [main] 2024-03-03 18:49:52.997 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 18:50:00.560 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Inside Test Method
+[INFO] [main] 2024-03-03 18:50:01.379 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:52:27.733 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:52:27.942 com.datavid.nseindia.utility.SetupTestDriver getDriver - Edge
+[DEBUG] [main] 2024-03-03 18:52:49.237 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 18:52:49.917 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 18:52:50.455 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 18:52:51.126 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 18:52:53.008 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Inside Test Method
+[INFO] [main] 2024-03-03 18:52:55.140 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 18:56:55.469 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:56:55.783 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- 
+[DEBUG] [main] 2024-03-03 18:57:13.383 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 18:59:17.902 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 18:59:18.217 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[DEBUG] [main] 2024-03-03 18:59:27.649 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 18:59:36.397 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Inside Test Method
+[INFO] [main] 2024-03-03 18:59:37.197 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:28.426 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:28.519 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[DEBUG] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:36.410 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:44.228 com.datavid.nseindia.utility.WaitClass lambda$untilJqueryIsDone$0 - JQuery call is in Progress
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:46.422 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Inside Test Method
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 19:04:47.300 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 19:05:30.514 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 19:05:30.827 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[DEBUG] [main] 2024-03-03 19:05:45.769 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 19:05:47.815 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Inside Test Method
+[INFO] [main] 2024-03-03 19:05:48.710 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 21:27:14.052 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:27:20.385 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:27:23.469 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:27:30.721 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:27:30.722 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:29:26.014 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:29:31.464 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:29:40.779 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:29:43.519 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:29:43.520 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:31:46.557 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:31:51.585 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:32:00.454 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:32:01.719 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:32:01.719 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:34:20.958 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:34:27.516 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:34:30.334 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:34:36.937 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:34:36.938 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:38:45.549 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:38:51.115 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:39:00.713 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:39:00.768 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:39:00.769 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:39:01.410 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 21:39:01.411 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 21:39:01.414 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 21:39:01.419 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 21:39:01.421 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 21:39:01.421 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 21:39:17.677 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:39:22.588 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:39:32.010 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:39:33.519 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:39:33.520 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:39:34.288 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 21:39:34.289 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 21:39:34.290 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 21:39:34.295 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 21:39:34.295 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 21:39:34.296 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 21:39:53.762 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:39:58.751 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:40:07.391 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:40:08.572 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:40:08.573 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:42:44.752 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 21:42:53.379 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:42:59.376 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:43:03.303 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:43:09.278 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 21:43:09.808 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:43:09.809 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:43:10.816 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 21:43:10.816 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 21:43:10.817 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 21:43:10.818 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 21:43:10.819 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 21:43:10.831 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 21:43:12.454 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 21:44:34.671 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 21:44:35.005 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 21:44:41.150 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 21:44:50.837 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 21:44:52.679 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 21:44:52.680 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 21:44:54.242 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 21:44:54.243 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 21:44:54.246 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 21:44:54.248 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 21:44:54.249 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 21:44:54.251 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 21:44:56.028 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 22:02:28.909 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:02:35.025 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:02:44.134 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:02:44.958 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:02:44.959 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:03:59.463 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:03:59.724 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:04:04.843 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:04:13.627 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:04:14.516 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:04:14.517 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:04:15.658 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:04:15.659 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:04:15.662 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 22:04:15.663 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 22:04:15.667 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 22:04:15.673 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 22:04:16.661 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 22:04:37.167 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:04:37.469 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:04:42.550 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:04:51.155 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:04:53.518 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:04:53.519 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:04:54.939 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:04:54.940 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:04:54.942 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 22:04:54.946 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 22:04:54.949 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 22:04:54.950 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 22:04:55.719 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:41.656 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:41.734 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:46.674 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:55.620 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:56.590 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:56.592 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.503 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.504 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.506 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.509 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.514 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:57.518 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [com.datavid.nseindia.testexecute.Test.main()] 2024-03-03 22:05:58.333 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 22:36:58.352 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:36:58.741 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:37:04.554 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:37:13.077 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:37:13.539 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 22:37:15.779 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:37:15.780 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:37:16.406 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:37:16.795 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:37:16.864 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:37:16.914 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:37:16.990 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.055 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'All Reports')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=//h1[contains(text(),'All Reports')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.057 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.142 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Equities & SME')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=//*[contains(text(),'Equities & SME')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.144 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.282 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.283 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.361 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.364 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.436 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.437 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:37:17.510 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [32a4df61d5ac191b94ee489044915405, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57057/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 32a4df61d5ac191b94ee489044915405
+[INFO] [main] 2024-03-03 22:37:17.953 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:37:17.954 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:37:17.955 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 22:37:17.956 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 22:39:35.048 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:39:35.367 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:39:40.998 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:39:43.871 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:39:51.325 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 22:39:51.862 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:39:51.863 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:39:52.376 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:39:52.865 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:39:52.975 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:39:53.064 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:39:53.233 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:53.417 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'All Reports')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=//h1[contains(text(),'All Reports')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:53.418 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:53.624 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Equities & SME')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=//*[contains(text(),'Equities & SME')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:53.627 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:53.684 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:53.685 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:53.768 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:53.770 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:53.895 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:53.897 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:39:54.007 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15a68c9a648ff4d14b3a7ca421475148, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57484}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57484/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 15a68c9a648ff4d14b3a7ca421475148
+[INFO] [main] 2024-03-03 22:39:54.548 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:39:54.550 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:39:54.552 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 22:49:33.180 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:49:33.563 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:49:38.679 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:49:48.919 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:49:51.137 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:49:51.138 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:49:51.743 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:49:52.202 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:49:52.268 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:49:52.469 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:52.578 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'All Reports')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=//h1[contains(text(),'All Reports')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:52.579 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:52.739 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Equities & SME')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=//*[contains(text(),'Equities & SME')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:52.741 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:52.887 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:52.889 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:52.979 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:52.980 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:53.067 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:53.067 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:49:53.126 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c8b88d4a9d9ea53852ccd1649527803, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57710}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57710/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c8b88d4a9d9ea53852ccd1649527803
+[INFO] [main] 2024-03-03 22:49:53.671 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:49:53.671 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:49:53.724 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 22:49:53.725 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:49:53.809 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 22:49:53.893 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 22:49:53.894 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 22:49:53.959 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-03 22:49:53.959 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 22:49:53.960 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 22:49:53.963 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 22:49:53.970 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 22:49:54.744 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 22:57:01.641 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:57:01.864 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:57:07.134 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:57:15.456 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:57:17.669 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 22:57:18.215 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:57:18.215 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:57:18.757 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.139 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'All Reports')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=//h1[contains(text(),'All Reports')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.140 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.280 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Equities & SME')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=//*[contains(text(),'Equities & SME')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.280 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.352 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.353 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.410 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.411 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.458 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.459 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:57:19.518 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8bd9a28602d3be9fb5e4850e207b304, findElement {using=xpath, value=(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57776}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57776/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8bd9a28602d3be9fb5e4850e207b304
+[INFO] [main] 2024-03-03 22:57:19.903 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:57:19.904 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:57:19.918 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 22:57:19.919 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:57:20.011 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 22:57:20.213 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 22:57:20.214 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 22:57:20.331 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-03 22:57:20.332 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 22:57:20.333 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 22:57:20.335 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 22:57:20.337 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 22:57:21.090 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 22:58:35.412 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 22:58:35.794 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 22:58:41.630 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 22:58:51.284 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 22:58:51.357 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 22:58:51.360 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 22:58:51.845 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:51.999 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'All Reports')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=//h1[contains(text(),'All Reports')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:52.001 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:52.312 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(),'Equities & SME')]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=//*[contains(text(),'Equities & SME')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:52.313 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:52.378 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=(//*[contains(text(),'Daily Volatility (CSV)')])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:52.379 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:52.498 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=(//*[contains(text(),'Short Selling (csv)')])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:52.499 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:52.549 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:52.551 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-03 22:58:52.604 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [91e215d19a3a7846acb8cc377f1bd84b, findElement {value=(//*[contains(text(),'Short Selling (csv)')])[1]/following-sibling::span//a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57822}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57822/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 91e215d19a3a7846acb8cc377f1bd84b
+[INFO] [main] 2024-03-03 22:58:53.267 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 22:58:53.268 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 22:58:53.269 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 22:58:53.270 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 22:59:24.307 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 22:59:24.512 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 23:02:19.191 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:02:20.963 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-03 23:02:20.967 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 23:02:20.968 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 23:02:20.970 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 23:02:20.975 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 23:02:22.017 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 23:03:53.149 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 23:03:53.436 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 23:03:58.974 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 23:04:08.134 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 23:04:09.099 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 23:04:09.100 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 23:04:10.338 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 23:04:10.339 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 23:04:10.341 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 23:04:10.342 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:04:10.399 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 23:04:10.458 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 23:04:10.459 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:04:10.528 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-03 23:04:10.530 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 23:04:10.531 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 23:04:10.532 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 23:04:10.533 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 23:04:11.357 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***
+[INFO] [main] 2024-03-03 23:41:14.985 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 23:41:15.202 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 23:41:30.565 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 23:41:46.152 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 23:42:46.193 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-03 23:42:46.394 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-03 23:42:50.837 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-03 23:42:59.776 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-03 23:43:00.246 com.datavid.nseindia.utility.WaitClass lambda$0 - JQuery call is in Progress
+[INFO] [main] 2024-03-03 23:43:01.288 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-03 23:43:01.289 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-03 23:43:02.407 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-03 23:43:02.409 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-03 23:43:02.409 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-03 23:43:02.410 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Initialize web element
+[INFO] [main] 2024-03-03 23:43:02.410 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:02.466 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 23:43:02.554 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 23:43:02.554 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:43:04.612 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-03 23:43:04.613 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-03 23:43:04.614 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Navigating to all reports page
+[INFO] [main] 2024-03-03 23:43:04.614 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Initialized web elements
+[INFO] [main] 2024-03-03 23:43:04.614 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:04.655 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:04.696 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:04.739 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:43:04.778 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Market Data list is displayed.
+[INFO] [main] 2024-03-03 23:43:04.779 com.datavid.nseindia.utility.Library clickElement - User is about to click on element
+[INFO] [main] 2024-03-03 23:43:04.948 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - System has clicked on Market Data list item.
+[INFO] [main] 2024-03-03 23:43:07.955 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:43:07.984 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Daily Market report label is displayed.
+[INFO] [main] 2024-03-03 23:43:07.985 com.datavid.nseindia.utility.Library clickElement - User is about to click on element
+[INFO] [main] 2024-03-03 23:43:10.896 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - System has clicked on Daily Market report label.
+[INFO] [main] 2024-03-03 23:43:10.897 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-03 23:43:10.897 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - Validating all report page visiblity
+[INFO] [main] 2024-03-03 23:43:10.899 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - Initialized web elements
+[INFO] [main] 2024-03-03 23:43:10.900 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:11.137 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:11.176 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 23:43:11.204 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 23:43:11.204 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:43:12.246 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - System is able to verify the all reports page visiblity
+[INFO] [main] 2024-03-03 23:43:12.246 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-03 23:43:12.283 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-03 23:43:12.284 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-03 23:43:13.329 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - System is able to verify the Equity & SME label visiblity
+[INFO] [main] 2024-03-03 23:43:13.332 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-03 23:43:13.335 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - About to download both reports
+[INFO] [main] 2024-03-03 23:43:13.338 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Initialized web elements
+[INFO] [main] 2024-03-03 23:43:13.339 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:13.403 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:13.467 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:13.522 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-03 23:43:13.578 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to verify if downloaded reports are blank or not
+[INFO] [main] 2024-03-03 23:43:14.314 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***

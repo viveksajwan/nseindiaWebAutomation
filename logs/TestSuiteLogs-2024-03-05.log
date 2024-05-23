@@ -1,0 +1,84 @@
+[INFO] [main] 2024-03-05 18:58:37.256 com.datavid.nseindia.reports.TestListeners onStart - *** Test Suite NSEINDIA Automation Test started ***
+[INFO] [main] 2024-03-05 18:58:37.590 com.datavid.nseindia.utility.SetupTestDriver getDriver - Browser in Test- Chrome
+[INFO] [main] 2024-03-05 18:58:47.117 com.datavid.nseindia.utility.Library openUrl - Navigating to URL https://www.nseindia.com/
+[DEBUG] [main] 2024-03-05 18:59:28.057 com.datavid.nseindia.utility.WaitClass untilJqueryIsDone - Calling untilJqueryIsDone
+[INFO] [main] 2024-03-05 18:59:28.135 com.datavid.nseindia.utility.Library openUrl - Opened URL
+[INFO] [main] 2024-03-05 18:59:28.136 com.datavid.nseindia.utility.Library maximaizeWindow - Maximizing the browser window
+[INFO] [main] 2024-03-05 18:59:29.477 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Daily Market Reports Validation Test has been Started
+[INFO] [main] 2024-03-05 18:59:29.479 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - Validating that system has successfully naigated to home page
+[INFO] [main] 2024-03-05 18:59:29.480 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Validating home page visiblity
+[INFO] [main] 2024-03-05 18:59:29.482 com.datavid.nseindia.pageobjects.HomePage validateHomePage - Initialize web element
+[INFO] [main] 2024-03-05 18:59:29.483 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:29.534 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-05 18:59:29.636 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-05 18:59:29.637 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-05 18:59:31.691 com.datavid.nseindia.pageobjects.HomePage validateHomePage - System is able to verify the home page visiblity
+[INFO] [main] 2024-03-05 18:59:31.693 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is navigating to Daily Market Reports/All Reports page
+[INFO] [main] 2024-03-05 18:59:31.695 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Navigating to all reports page
+[INFO] [main] 2024-03-05 18:59:31.696 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Initialized web elements
+[INFO] [main] 2024-03-05 18:59:31.697 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:31.755 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:31.805 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:31.850 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-05 18:59:31.879 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Market Data list is displayed.
+[INFO] [main] 2024-03-05 18:59:31.881 com.datavid.nseindia.utility.Library clickElement - User is about to click on element
+[INFO] [main] 2024-03-05 18:59:32.174 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - System has clicked on Market Data list item.
+[INFO] [main] 2024-03-05 18:59:35.184 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-05 18:59:35.231 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - Daily Market report label is displayed.
+[INFO] [main] 2024-03-05 18:59:35.235 com.datavid.nseindia.utility.Library clickElement - User is about to click on element
+[INFO] [main] 2024-03-05 18:59:52.852 com.datavid.nseindia.pageobjects.HomePage navigateToAllReports - System has clicked on Daily Market report label.
+[INFO] [main] 2024-03-05 18:59:52.855 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is verifying that Equities & SME label is displayed
+[INFO] [main] 2024-03-05 18:59:52.856 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - Validating all report page visiblity
+[INFO] [main] 2024-03-05 18:59:52.856 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - Initialized web elements
+[INFO] [main] 2024-03-05 18:59:52.857 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:52.962 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[INFO] [main] 2024-03-05 18:59:53.315 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-05 18:59:53.342 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-05 18:59:53.343 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-05 18:59:54.391 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - System is able to verify that the All Reports page is visible
+[INFO] [main] 2024-03-05 18:59:54.392 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-05 18:59:54.473 com.datavid.nseindia.utility.WaitClass explicitlyWait - System waited explicitly for the web element
+[INFO] [main] 2024-03-05 18:59:54.474 com.datavid.nseindia.utility.Library isWebElementDisplayed - User is verifying the visibility of element
+[INFO] [main] 2024-03-05 18:59:55.499 com.datavid.nseindia.pageobjects.AllReportsPage equitiesLabelIsDisplayed - System is able to verify that the Equity & SME label is visible.
+[INFO] [main] 2024-03-05 18:59:55.501 com.datavid.nseindia.test.TestDailyMarketReports dailyMarketReportsValidation - System is about to download both Daily Volatility and Short Selling reports
+[INFO] [main] 2024-03-05 18:59:55.501 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - About to download both reports
+[INFO] [main] 2024-03-05 18:59:55.502 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Initialized web elements
+[INFO] [main] 2024-03-05 18:59:55.503 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Initializing Report download loop for two iterations
+[INFO] [main] 2024-03-05 18:59:55.503 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Iteration for downloading report- 1
+[INFO] [main] 2024-03-05 18:59:55.504 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-05 18:59:55.593 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b72bf296eb17d92567e0e6e66d87ca99, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58665/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b72bf296eb17d92567e0e6e66d87ca99
+[INFO] [main] 2024-03-05 18:59:55.596 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-05 18:59:55.648 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b72bf296eb17d92567e0e6e66d87ca99, findElement {using=xpath, value=(//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span//a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58665/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b72bf296eb17d92567e0e6e66d87ca99
+[INFO] [main] 2024-03-05 18:59:55.649 com.datavid.nseindia.utility.Library findElementByXpath - User is about to identifying the webelement
+[ERROR] [main] 2024-03-05 18:59:55.707 com.datavid.nseindia.utility.Library findElementByXpath - no such element: Unable to locate element: {"method":"xpath","selector":"((//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span)[1]"}
+  (Session info: chrome=122.0.6261.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b72bf296eb17d92567e0e6e66d87ca99, findElement {using=xpath, value=((//*[contains(text(),'Daily Volatility (CSV)')])[1]/following-sibling::span)[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.94 (880dbf29479c..., userDataDir: C:\Users\Kashish\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58665/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b72bf296eb17d92567e0e6e66d87ca99
+[INFO] [main] 2024-03-05 18:59:55.708 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Initialized Daily Volatility Report for this iteration
+[INFO] [main] 2024-03-05 19:00:00.709 com.datavid.nseindia.pageobjects.AllReportsPage downloadBothReports - Scrolling to  Report element
+[INFO] [main] 2024-03-05 19:00:00.710 com.datavid.nseindia.utility.WaitClass explicitlyWait - Waiting for visibility of web elements
+[INFO] [main] 2024-03-05 19:00:01.118 com.datavid.nseindia.reports.TestListeners takeScreenshot - ***********************
+[INFO] [main] 2024-03-05 19:00:01.118 com.datavid.nseindia.reports.TestListeners takeScreenshot - Screenshot stored at : D:\Workstation\Automation\Code_Repo\Branches\nseindiaWebAutomation/test-reports/Report_20240305065929/Screenshots/dailyMarketReportsValidation_Tue Mar 05 19_00_00 IST 2024.png
+[INFO] [main] 2024-03-05 19:00:01.118 com.datavid.nseindia.reports.TestListeners takeScreenshot - ***********************
+[INFO] [main] 2024-03-05 19:00:01.756 com.datavid.nseindia.reports.TestListeners onFinish - *** Test Suite NSEINDIA Automation Test ending ***

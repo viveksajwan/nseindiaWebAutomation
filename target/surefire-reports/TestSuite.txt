@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.909 s <<< FAILURE! - in TestSuite
+com.firstorg.nseindia.test.TestDailyMarketReports.dailyMarketReportsValidation  Time elapsed: 16.367 s  <<< FAILURE!
+java.lang.AssertionError: Error during equitiesLabelIsDisplayed Execution, exception: <br>Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "element" is null
+	at com.firstorg.nseindia.test.TestDailyMarketReports.dailyMarketReportsValidation(TestDailyMarketReports.java:73)
+

@@ -1,0 +1,32 @@
+{
+	"driver-config": {
+		"driver": {
+			"browser": "Chrome",
+			"os": "windows"
+		},
+		"testProperty": {
+			"locators": {
+				"fileName": "locators",
+				"filePath": "\\src\\main\\resources\\properties\\"
+			},
+			"testData": {
+				"fileName": "nseindia-testData",
+				"filePath": "\\src\\main\\resources\\properties\\"
+			}
+		},
+		"testNgxml": "\\src\\main\\resources\\config\\testng.xml",
+		"testEnvironment": "prod",
+		"implicitlyWait": "100"
+	},
+	"environment-config": {
+		"qa": {
+			"url": ""
+		},
+		"uat": {
+			"url": ""
+		},
+		"prod": {
+			"url": "https://www.nseindia.com/"
+		}
+	}
+}
